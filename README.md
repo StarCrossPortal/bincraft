@@ -14,7 +14,7 @@ Features:
 
 We already have a Dark Themed Ghidra!
 
-![./images/dark_theme_preview.jpeg]
+![./images/dark_theme_preview.png]
 
 ## Projects
 
