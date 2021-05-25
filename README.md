@@ -23,5 +23,5 @@ bincraft is composed by various projects, each for its own goal.
 Now we have:
 
 - [sleighcraft](https://github.com/StarCrossPortal/sleighcraft): ghidra-based Rust/Python/NodeJS disassembler/lifter that works as a library
-- [bincraft_ghidra](https://github.com/StarCrossPortal/bincraft_ghidra): forked version of ghidra that adds possible default extensions, dark themed UI, etc.
+- [ghidracraft](https://github.com/StarCrossPortal/ghidracraft): forked version of ghidra that adds possible default extensions, dark themed UI, etc.
 - more under construction!
