@@ -24,4 +24,5 @@ Now we have:
 
 - [sleighcraft](https://github.com/StarCrossPortal/sleighcraft): ghidra-based Rust/Python/NodeJS disassembler/lifter that works as a library
 - [ghidracraft](https://github.com/StarCrossPortal/ghidracraft): forked version of ghidra that adds possible default extensions, dark themed UI, etc.
+- [pcodecraft](https://github.com/StarCrossPortal/pcodecraft): Rust abstraction over ghidra decompiler objects.
 - more under construction!
